@@ -20,6 +20,8 @@
 ### 🔨 Tools:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />  &  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 ### - - - - - - - - - - - - - - - - - - - -
+### 📃 astrictly's Stats! 
+<img align="left" src="https://github-readme-stats-nudn32qo8.vercel.app/api?username=astrictly&show_icons=true&hide_border=true" />
  
 <br />
 <br />
