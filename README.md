@@ -1,16 +1,16 @@
 ### Hey there! I'm astrictly! 😁
 
 ### I am a Developer & Owner of the Astrictly | Community Discord and it's Bots and APIs. 💻
-### I am also a Student and a Gamer! [xbox] 🎮
+### I am also a Student and a Gamer!  [Xbox] 🎮
 
 ### - - - - - - - - - - - - - - - - - - - - 
 ### 😎 Connect with me: 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [Twitter]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />  [Twitter]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> [Discord]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />  [Discord]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" /> [Xbox]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />  [Xbox]
 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 📜 Languages: 
