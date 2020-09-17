@@ -6,13 +6,24 @@
 ### - - - - - - - - - - - - - - - - - - - - 
 ### 😎 Connect with me: 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> (https://twitter.com/notastrictly)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [Twitter]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> (https://discord.com/users/738935849529507861)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> [Discord]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" /> (https://account.xbox.com/en-ca/Profile?xr=mebarnav&rtc=1)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" /> [Xbox]
 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 📜 Languages: 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html.svg" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> 
 ### And More! 
+### - - - - - - - - - - - - - - - - - - - -
+### 🔨 Tools:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+### - - - - - - - - - - - - - - - - - - - -
+ 
+<br />
+<br />
+
+[Twitter]: https://twitter.com/notastrictly
+[Discord]: https://discord.com/users/738935849529507861
+[Xbox]: https://account.xbox.com/en-ca/Profile?xr=mebarnav&rtc=1
