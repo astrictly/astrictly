@@ -5,10 +5,7 @@
 
 ### Connect with me: 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter] 
-<img align="left" alt:"https://discord.com/users/738935849529507861" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[discord]
-<img align="left" alt:"https://account.xbox.com/en-ca/Profile?xr=mebarnav&rtc=1" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />[xbox]
+<img height="32" width="32" alt:""https://twitter.com/notastrictly" "src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> (twitter)
+<img height="32" width="32" alt:"https://discord.com/users/738935849529507861" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> (discord)
+<img height="32" width="32" alt:""https://account.xbox.com/en-ca/Profile?xr=mebarnav&rtc=1"" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" /> (xbox)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" />
-
-"https://twitter.com/notastrictly"
