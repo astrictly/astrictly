@@ -6,11 +6,11 @@
 ### - - - - - - - - - - - - - - - - - - - - 
 ### 😎 Connect with me: 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> ### -  [Twitter]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> --  [Twitter]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> ### - [Discord]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> -- [Discord]
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" /> ### - [Xbox]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />  -- [Xbox]
 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 📜 Languages: 
@@ -18,7 +18,7 @@
 ### And More! 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 🔨 Tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />  &  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 ### - - - - - - - - - - - - - - - - - - - -
  
 <br />
