@@ -14,7 +14,7 @@
 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 📜 Languages: 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg&color=true" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> 
 ### And More! 
 ### - - - - - - - - - - - - - - - - - - - -
 ### 🔨 Tools:
